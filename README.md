@@ -1,4 +1,3 @@
-<img width="1186" height="477" alt="image" src="https://github.com/user-attachments/assets/4f8a83cd-2ec2-45c1-bb78-ba43d5a406f9" /><img width="747" height="666" alt="WhatsApp Image 2026-11-28 at 2 22 19 PM" src="https://github.com/user-attachments/assets/7fe36e01-c588-4446-afc5-794c4df4cff3" /># RouteWise 
 ### Smart Delivery and Route Optimization System
 
 RouteWise is a console-based C++ application designed for a courier company to manage customers, parcels, delivery requests, and city routes efficiently.
@@ -99,9 +98,6 @@ RouteWise provides 18 menu options:
 16. Compare BST and AVL Performance
 17. Display System Statistics
 18. Exit
-
-<img width="747" height="666" alt="Screenshot 2026-11-28 142209" src="https://github.com/user-attachments/assets/8588728b-8dc8-4b1c-b2d4-7311291ea799" />
-
 
 ---
 
