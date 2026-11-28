@@ -99,6 +99,9 @@ RouteWise provides 18 menu options:
 17. Display System Statistics
 18. Exit
 
+
+<img width="480" height="600" alt="Screenshot 2026-11-28 142209" src="https://github.com/user-attachments/assets/ca22d831-1957-453a-aa54-4186b5afa7bd" />
+
 ---
 
 ## Time Complexity
