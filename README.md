@@ -31,6 +31,11 @@ The system loads customer records, parcel records, and the city network from tex
 - **Performance Comparison** – Compare BST and AVL tree performance.
 - **System Statistics** – Display customers, parcels, delivery queues, network information, and tree statistics.
 
+
+https://github.com/user-attachments/assets/767c12d6-e7cb-4877-bda8-dd424f0ab157
+
+
+
 ---
 
 ## Data Structures & Algorithms
